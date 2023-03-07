@@ -1,3 +1,41 @@
+Live: https://piton-task-ahmetucar2.vercel.app/
+
+Login Web:
+
+
+<img width="1440" alt="Ekran Resmi 2023-03-07 08 10 39" src="https://user-images.githubusercontent.com/104788318/223326476-8200d4fa-0052-49e2-ba93-e34acf41088f.png">
+
+
+Register Web:
+
+
+<img width="1440" alt="Ekran Resmi 2023-03-07 08 10 52" src="https://user-images.githubusercontent.com/104788318/223326554-47058bfd-837b-4255-bb61-32dd61af524f.png">
+
+
+Home Web:
+
+
+<img width="1440" alt="Ekran Resmi 2023-03-07 08 11 11" src="https://user-images.githubusercontent.com/104788318/223326601-0ef383a6-12ad-4511-bf4d-b87930596307.png">
+
+
+Category Web:
+
+
+<img width="1440" alt="Ekran Resmi 2023-03-07 08 11 27" src="https://user-images.githubusercontent.com/104788318/223326651-05b53296-50e8-4951-a2e1-2a761d258ca3.png">
+
+
+Detail Web:
+
+
+<img width="1440" alt="Ekran Resmi 2023-03-07 08 11 37" src="https://user-images.githubusercontent.com/104788318/223326781-8d677a1f-6070-4441-b548-e582b173d41e.png">
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
